@@ -1,0 +1,70 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('img/office-1730939_1280.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    color: #6D7993;
+}
+.download-button {
+    background-color: #96858F;
+    color: #FFFFFF;
+}
+
+.container-fluid {
+    background-color: rgba(255, 255, 255, 0.5); 
+    max-width: 1000px;
+    margin: 20px auto;
+    padding-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.nav-tabs {
+    background-color: #96858F; 
+    border-radius: 8px; 
+}
+
+.nav-tabs .nav-link {
+    color: #FFFFFF; 
+}
+.nav-tabs .nav-link:hover {
+    background-color: #6D7993; 
+}
+
+.text-center {
+    padding: 0px;
+}
+
+#foto {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+    margin-bottom: 20px;
+}
+
+.tab-content {
+    padding: 20px;
+}
+
+.display-4 {
+    color: #96858F; 
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #6D7993; 
+    font-size: 1.5em;
+}
+
+.lead {
+    font-style: italic;
+    color:  #96858F; 
+    font-size: 5.5em;
+}
+
+hr.my-4 {
+    border-color: #96858F;
+}
